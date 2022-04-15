@@ -1,0 +1,15 @@
+{
+    "name": "Battle Pod",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 2,
+    "primaryAbilites": {
+        "combat": 4,
+        "special": [ "scrap-market-card" ]
+    },
+    "allyAbilities": {
+        "Blob": {
+            "combat": 2
+        }
+    }
+}

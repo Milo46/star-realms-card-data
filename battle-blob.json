@@ -1,0 +1,17 @@
+{
+    "name": "Battle Blob",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 6,
+    "primaryAbilites": {
+        "combat": 8
+    },
+    "allyAbilites": {
+        "Blob": {
+            "special": [ "draw-card" ]
+        }
+    },
+    "scrapAbility": {
+        "combat": 4
+    }
+}

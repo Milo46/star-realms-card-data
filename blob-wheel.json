@@ -1,0 +1,13 @@
+{
+    "name": "Blob Wheel",
+    "type": "base",
+    "faction": "Blob",
+    "defense": 5,
+    "cost": 3,
+    "primaryAbilites": {
+        "combat": 1
+    },
+    "scrapAbility": {
+        "trade": 3
+    }
+}

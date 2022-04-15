@@ -1,0 +1,15 @@
+{
+    "name": "Blob Fighter",
+    "description": "Either kill it before it signals the hive or run. There are other choices, but none you'll live through.",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 1,
+    "primaryAbilities": {
+        "combat": 3
+    },
+    "allyAbilities": {
+        "Blob": {
+            "special": [ "draw-card" ]
+        }
+    }
+}

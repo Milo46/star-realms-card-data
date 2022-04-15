@@ -1,0 +1,15 @@
+{
+    "name": "Mothership",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 7,
+    "primaryAbilities": {
+        "combat": 6,
+        "special": [ "draw-card" ]
+    },
+    "allyAbilites": {
+        "Blob": {
+            "special": [ "draw-card" ]
+        }
+    }
+}

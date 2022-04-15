@@ -1,0 +1,15 @@
+{
+    "name": "The Hive",
+    "type": "base",
+    "faction": "Blob",
+    "defense": 5,
+    "cost": 5,
+    "primaryAbilities": {
+        "combat": 3
+    },
+    "allyAbilities": {
+        "Blob": {
+            "special": [ "draw-card" ]
+        }
+    }
+}

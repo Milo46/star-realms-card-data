@@ -1,0 +1,13 @@
+{
+    "name": "Blob World",
+    "type": "base",
+    "faction": "Blob",
+    "defense": 7,
+    "cost": 8,
+    "primaryAbilities": {
+        "choice": {
+            "combat": 5,
+            "special": [ "draw-for-each-blob" ]
+        }
+    }
+}

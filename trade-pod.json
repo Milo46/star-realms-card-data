@@ -1,0 +1,15 @@
+{
+    "name": "Trade Pod",
+    "description": "The loading and offloading process is efficient, but disgusting.",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 2,
+    "primaryAbilities": {
+        "trade": 3
+    },
+    "allyAbilities": {
+        "Blob": {
+            "combat": 2
+        }
+    }
+}

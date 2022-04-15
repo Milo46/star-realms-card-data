@@ -1,0 +1,18 @@
+{
+    "name": "Imperial Frigate",
+    "type": "ship",
+    "faction": "Star Empire",
+    "cost": 3,
+    "primaryAbilities": {
+        "combat": 4,
+        "specialFunction": [ "enemy-discard-card" ]
+    },
+    "allyAbilities": {
+        "Star Empire": {
+            "attackGain": 2
+        }
+    },
+    "scrapAbility": {
+        "specialFunction": [ "draw-card" ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Blob Destroyer",
+    "description": "When this monstrous ship shows up on a colony's sensors, they know the end is near...",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 4,
+    "primaryAbilities": {
+        "combat": 6
+    },
+    "allyAbilites": {
+        "Blob": {
+            "special": [
+                "destroy-target-base",
+                "scrap-trade-card"
+            ]
+        }
+    }
+}

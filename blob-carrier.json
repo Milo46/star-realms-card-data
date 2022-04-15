@@ -1,0 +1,15 @@
+{
+    "name": "Blob Carrier",
+    "description": "Is that... a whale? - HMS Defender, final transmisson.",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 6,
+    "primaryAbilities": {
+        "combat": 7
+    },
+    "allyAbilites": {
+        "Blob": {
+            "special": [ "free-trade-card" ]
+        }
+    }
+}

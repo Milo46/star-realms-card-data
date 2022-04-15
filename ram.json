@@ -1,0 +1,17 @@
+{
+    "name": "Ram",
+    "type": "ship",
+    "faction": "Blob",
+    "cost": 3,
+    "primaryAbilites": {
+        "combat": 5
+    },
+    "allyAbilites": {
+        "Blob": {
+            "combat": 2
+        }
+    },
+    "scrapAbility": {
+        "trade": 3
+    }
+}
